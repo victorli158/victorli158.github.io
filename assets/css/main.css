@@ -2602,7 +2602,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner3.png");
+		background-image: url("../../images/banner.png");
 		background-position: top left;
 		background-repeat: no-repeat;
 		background-size: cover;
