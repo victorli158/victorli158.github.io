@@ -1574,7 +1574,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4696e5 !important;
+			color: #4267B2 !important;
 		}
 
 	strong, b {
@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4696e5;
+		color: #4267B2;
 		font-size: 3.5em;
 	}
 
@@ -1899,7 +1899,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4696e5;
+			border-color: #4267B2;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2106,7 +2106,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #4696e5;
+					background: #4267B2;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2393,7 +2393,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4696e5;
+			background-color: #4267B2;
 			color: #ffffff !important;
 		}
 
@@ -2475,7 +2475,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4696e5;
+		background: #4267B2;
 		color: #cddfff;
 		height: 100%;
 		overflow-y: auto;
@@ -2564,7 +2564,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #469eea;
+					border-top: solid 2px #426FB7;
 					display: block;
 					padding: 0;
 				}
@@ -2583,7 +2583,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4696e5 !important;
+							color: #4267B2 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2862,7 +2862,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #4696e5;
+						background: #4267B2;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
